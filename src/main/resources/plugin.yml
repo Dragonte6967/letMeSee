@@ -1,0 +1,8 @@
+name: letMeSee
+version: '1.0-SNAPSHOT'
+main: top.dragonte.letMeSee.LetMeSee
+api-version: '1.21'
+commands:
+  letmesee:
+    description: Check one's inventory.
+    usage: /<command> [<player>]
